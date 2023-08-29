@@ -1,2 +1,2 @@
 # exemplo-ebac
-Exemplo de projeto para o Ebac
+Exemplo de projeto para o Ebac.
